@@ -388,7 +388,7 @@ h3{
 .trees::before{
     content: '';
     position: absolute;
-    background-image: url(/img8/1.svg);
+    background-image: url(../img8/1.svg);
     bottom: -50px;
     left: 0;
     background-size: cover;
@@ -399,7 +399,7 @@ h3{
 .trees::after{
     content: '';
     position: absolute;
-    background-image: url(/img8/2.svg);
+    background-image: url(../img8/2.svg);
     top: -50px;
     left: 0;
     background-size: cover;
